@@ -8,7 +8,7 @@ We have designed test cases for registration, login, publishing post and account
 Meet Shah(MT2021074) has worked on test cases involving login and account deletion.
 Shubham Verma(MT2021132) has worked on cases involving registration and publishing post.
 
-The test cases and their respective screenshots of methods are as follows:
+The test cases and their respective screenshots are as follows:
 Test Case 1: Testing if registration occurs successfully on giving correct inputs.
 ![image](https://user-images.githubusercontent.com/63227838/204259812-305e5b25-b101-4282-8876-ce9b28e02673.png)
 ![image](https://user-images.githubusercontent.com/63227838/204259876-153320f6-7922-42d5-a9e9-ddfc0b59aa01.png)
