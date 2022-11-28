@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-28T09:01:46Z" name="Default suite" finished-at="2022-11-28T09:03:44Z" duration-ms="118348">
+    <groups>
+    </groups>
+    <test started-at="2022-11-28T09:01:46Z" name="Default test" finished-at="2022-11-28T09:03:44Z" duration-ms="118348">
+      <class name="com.selenium.test.FinalTest">
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:01:46Z" name="invokeBrowser" finished-at="2022-11-28T09:01:47Z" duration-ms="1858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="Test1()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:01:47Z" name="Test1" description="Testing if registration occurs successfully on giving correct inputs" finished-at="2022-11-28T09:01:52Z" duration-ms="4194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:01:52Z" name="aftermethod" finished-at="2022-11-28T09:01:52Z" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:01:52Z" name="invokeBrowser" finished-at="2022-11-28T09:01:53Z" duration-ms="1265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="Test10()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:01:53Z" name="Test10" description="Testing if publishing post gives error if no title or content is provided" finished-at="2022-11-28T09:02:05Z" duration-ms="12422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test10 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:02:05Z" name="aftermethod" finished-at="2022-11-28T09:02:06Z" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:02:06Z" name="invokeBrowser" finished-at="2022-11-28T09:02:07Z" duration-ms="1578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="Test11()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:02:07Z" name="Test11" description="This is to check account deletion functionality" finished-at="2022-11-28T09:02:27Z" duration-ms="19571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test11 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:02:27Z" name="aftermethod" finished-at="2022-11-28T09:02:27Z" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:02:27Z" name="invokeBrowser" finished-at="2022-11-28T09:02:28Z" duration-ms="1229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="Test2()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:02:28Z" name="Test2" description="Testing invalid username during registration" finished-at="2022-11-28T09:02:32Z" duration-ms="4205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:02:32Z" name="aftermethod" finished-at="2022-11-28T09:02:32Z" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:02:32Z" name="invokeBrowser" finished-at="2022-11-28T09:02:33Z" duration-ms="1203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="Test3()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:02:33Z" name="Test3" description="Testing invalid email during registration" finished-at="2022-11-28T09:02:38Z" duration-ms="4202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:02:38Z" name="aftermethod" finished-at="2022-11-28T09:02:38Z" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:02:38Z" name="invokeBrowser" finished-at="2022-11-28T09:02:39Z" duration-ms="1529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="Test4()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:02:39Z" name="Test4" description="Testing invalid password during registration" finished-at="2022-11-28T09:02:43Z" duration-ms="4239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:02:43Z" name="aftermethod" finished-at="2022-11-28T09:02:45Z" duration-ms="1267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:02:45Z" name="invokeBrowser" finished-at="2022-11-28T09:02:46Z" duration-ms="1504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="Test5()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:02:46Z" name="Test5" description="Testing to register with the same user name but different email" finished-at="2022-11-28T09:02:57Z" duration-ms="10361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test5 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:02:57Z" name="aftermethod" finished-at="2022-11-28T09:02:57Z" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:02:57Z" name="invokeBrowser" finished-at="2022-11-28T09:02:58Z" duration-ms="1209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="Test6()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:02:58Z" name="Test6" description="Testing to register with the different user name but same email" finished-at="2022-11-28T09:03:08Z" duration-ms="10367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test6 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:03:08Z" name="aftermethod" finished-at="2022-11-28T09:03:08Z" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:03:08Z" name="invokeBrowser" finished-at="2022-11-28T09:03:10Z" duration-ms="1234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="Test7()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:03:10Z" name="Test7" description="Test valid login" finished-at="2022-11-28T09:03:20Z" duration-ms="10355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test7 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:03:20Z" name="aftermethod" finished-at="2022-11-28T09:03:20Z" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:03:20Z" name="invokeBrowser" finished-at="2022-11-28T09:03:22Z" duration-ms="1542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="Test8()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:03:22Z" name="Test8" description="Testing invalid user name during login" finished-at="2022-11-28T09:03:32Z" duration-ms="10358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test8 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:03:32Z" name="aftermethod" finished-at="2022-11-28T09:03:32Z" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:03:32Z" name="invokeBrowser" finished-at="2022-11-28T09:03:34Z" duration-ms="1599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="Test9()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:03:34Z" name="Test9" description="Testing invalid password during login" finished-at="2022-11-28T09:03:44Z" duration-ms="10349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test9 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.selenium.test.FinalTest@2141a12]" started-at="2022-11-28T09:03:44Z" name="aftermethod" finished-at="2022-11-28T09:03:44Z" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- com.selenium.test.FinalTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
